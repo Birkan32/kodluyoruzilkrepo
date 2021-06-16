@@ -1,7 +1,9 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![github](images/VSCO.png)
+<img src="images/VSCO.png"  alt="...">
+
+
 
 
 ## Installation
